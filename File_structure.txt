@@ -1,0 +1,19 @@
+portfolio-website/
+│
+├── index.html
+├── style.css
+├── README.md               ← Optional but good for documentation
+│
+├── images/                 ← All images go here
+│   ├── indufav.jpg
+│   ├── linkedin.png
+│   ├── github-icon.png
+│   └── instagram-icon.png
+│
+├── certificates/           ← All PDF certificates go here
+│   ├── Web_development-workshop.pdf
+│   ├── javascript.pdf
+│   └── responsive.pdf
+│
+└── resume/
+    └── resume.pdf
